@@ -1,5 +1,5 @@
 # NARS_PopEst
-Repository for Shiny app that serves as a wrapper for spsurvey package used in population estimates for NARS studies
+Repository for Shiny app that serves as a wrapper for spsurvey package used in population estimates for NARS studies. This is an old repository and should not be used for updated code using update spsurvey. That repo is now located at https://github.com/USEPA/NARS-Population-Estimate-Shiny-Tool.
 
 ## Description
 This project contains R Shiny code for to use the spsurvey package to calculate NARS-type population estimates on continuous or categorical data, with multiple response variables and multiple subpopulations.
